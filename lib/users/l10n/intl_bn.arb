@@ -1,0 +1,10 @@
+{
+  "appTitle": "ডাক্তার অ্যাপয়েন্টমেন্ট অ্যাপ",
+  "healthPriority": "যে কোন সময়, যে কোন জায়গায় সহজেই আপনার অ্যাপয়েন্টমেন্ট বুক করুন।",
+  "welcomeMessage": "ডাক্তার অ্যাপয়েন্টমেন্ট অ্যাপ",
+  "signIn": "সাইন ইন করুন",
+  "login": "লগ ইন করুন",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

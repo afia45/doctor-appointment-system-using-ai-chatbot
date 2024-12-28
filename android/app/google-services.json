@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765859799586",
+    "project_id": "doctor-appointment-chatb-899d3",
+    "storage_bucket": "doctor-appointment-chatb-899d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765859799586:android:76bf619df85dc98942207b",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhp9YM2lYdsOtzn47URk8nKERUHtHgy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
