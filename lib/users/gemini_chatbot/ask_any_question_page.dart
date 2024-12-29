@@ -18,7 +18,7 @@ class _AskAnyQuestionPageState extends State<AskAnyQuestionPage> {
   final TextEditingController _userInput = TextEditingController();
   final List<Message> _messages = [];
 
-  static const String apiKey = "AIzaSyBalgHcpzD3YqyuznDEh_z9cC7qePSjSdY";
+  static const String apiKey = "YOUR_GEMINI_KEY";
   final GenerativeModel model = GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
 
   final stt.SpeechToText _speechToText = stt.SpeechToText();
