@@ -64,6 +64,8 @@ The app provides essential features like booking an appointment using an AI Chat
 ![Screen shots](assets/images/ss2.png)
 -->
 
+## Limitations
+There are considerable amount of limitations that my team and I are currently fixing, failure to fix those features will be noted down here!
 
 ## Project Setup (WIP)
 <!--
