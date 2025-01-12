@@ -61,8 +61,8 @@ The app provides essential features like booking an appointment using an AI Chat
 
 ### Screenshots (WIP)
 
-![Screen shots](assets/images/ss5.png)
 ![Screen shots](assets/images/ss6.png)
+![Screen shots](assets/images/ss7.png)
 
 
 ## Limitations
