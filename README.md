@@ -44,11 +44,13 @@ The app provides essential features like booking an appointment using an AI Chat
 - **Hospitals Nearby Page**: Users are navigated to Google Maps that shows all nearby clinics and hospitals near them, using their device location.
 
 ### Screenshots (WIP)
-<!--
-![Screen shots](assets/images/ss.png)
+
 ![Screen shots](assets/images/ss1.png)
 ![Screen shots](assets/images/ss2.png)
--->
+![Screen shots](assets/images/ss3.png)
+![Screen shots](assets/images/ss4.png)
+![Screen shots](assets/images/ss5.png)
+
 
 ### Admin Panel
 - **Drawer**: Provides easy navigation to the following pages;
@@ -58,11 +60,10 @@ The app provides essential features like booking an appointment using an AI Chat
 - **Manage Hospital Database Page**: Allows Admins to manage the Hospital Database, they can edit or delete as they wish. (Adding Functionality is yet to be implemented)
 
 ### Screenshots (WIP)
-<!--
-![Screen shots](assets/images/ss.png)
-![Screen shots](assets/images/ss1.png)
-![Screen shots](assets/images/ss2.png)
--->
+
+![Screen shots](assets/images/ss5.png)
+![Screen shots](assets/images/ss6.png)
+
 
 ## Limitations
 There are considerable amount of limitations that my team and I are currently fixing, failure to fix those features will be noted down here!
