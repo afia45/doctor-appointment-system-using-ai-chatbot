@@ -2,7 +2,7 @@
 <p align="center">
 <img src="assets/images/icon.png" alt="Logo" width="100" height="90">
 </p>
-<img src="assets/images/ai-chatbot-rasa.png" alt="Logo" >
+![Screen shots](assets/images/ai-chatbot-rasa.png)
 This project is a Doctor Appointment System (Mobile) app designed to help users book doctor appointments in the most efficient way. Rather than calling up centers, paying a visit or using complex appointment systems for the sake of making an appointment, users can just chat with an AI powered Chatbot with (NLP and ML) entity and intent recognition, to help users make appointments the most efficient way.
 
 <br />
