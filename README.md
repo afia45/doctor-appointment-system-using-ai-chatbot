@@ -1,4 +1,4 @@
-# Doctor Appointment System utilizing AI Chatbot with RASA Framework
+# MedAI: Doctor Appointment System utilizing AI Chatbot with RASA Framework
 <p align="center">
 <img src="assets/images/icon.png" alt="Logo" width="100" height="90">
 </p>
